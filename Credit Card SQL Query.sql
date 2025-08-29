@@ -51,14 +51,14 @@ Client_Num INT,
 -- copy credit_card table
 
 COPY credit_card
-FROM 'C:\Users\Aayush\Documents\SQL Server Management Studio\Project\Power BI Project\Power BI Dataset.csv' 
+FROM 'C:\Users\Lenovo\Documents\SQL Server Management Studio\Project\Power BI Project\Power BI Dataset.csv' 
 DELIMITER ',' 
 CSV HEADER;
 
 -- copy customer table
 
 COPY customer
-FROM 'C:\Users\Aayush\Documents\SQL Server Management Studio\Project\Power BI Project\Power BI Dataset\customer.csv'
+FROM 'C:\Users\Lenovo\Documents\SQL Server Management Studio\Project\Power BI Project\Power BI Dataset\customer.csv'
 DELIMITER ','
 CSV HEADER;
 
@@ -68,7 +68,7 @@ CSV HEADER;
 -- copy additional data (week-53) in credit_card table
 
 COPY credit_card
-FROM 'C:\Users\Aayush\Downloads\cc_add.csv' 
+FROM 'C:\Users\Lenovo\Downloads\cc_add.csv' 
 DELIMITER ',' 
 CSV HEADER;
 
@@ -76,6 +76,6 @@ CSV HEADER;
 -- copy additional data (week-53) in customer table 
 
 COPY customer
-FROM 'C:\Users\Aayush\Downloads\cust_add.csv' 
+FROM 'C:\Users\Lenovo\Downloads\cust_add.csv' 
 DELIMITER ',' 
 CSV HEADER;
