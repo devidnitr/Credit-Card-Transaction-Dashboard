@@ -1,10 +1,10 @@
-💳 <h1>Credit Card Transaction Dashboard</h1>
+ <h1>Credit Card Transaction Dashboard</h1>
 
 <h3>Tech Stack: Power BI | SQL</h3>
 
 <p>This project is about building an interactive Power BI dashboard to analyze credit card transactions. It focuses on customer behavior, spending patterns, and delinquency trends. The goal is to make financial insights easier to understand and to support better decision-making with the help of data.</p>
 
-📊 <h3>Features</h3>
+ <h3>Features</h3>
 <ul>
 <li>Customer segmentation and spending analysis</li>
 
@@ -15,7 +15,7 @@
 <li>Clear and interactive visuals for decision-making</li>
 </ul>
 
-🚀 <h3>Project Goals</h3>
+ <h3>Project Goals</h3>
 <ul>
 <li>Provide insights into customer behavior</li>
 
@@ -24,7 +24,7 @@
 <li>Help in strategy and business planning with data</li>
 <ul>
 
-🔍 <h1>Insights</h1>
+ <h1>Insights</h1>
 
 <h3>Customer Segmentation & Spending</h3>
 <p>Clear spending patterns emerged across different customer groups. High-income and older customers tend to spend more on travel and lifestyle, while younger customers show higher usage in online shopping and food delivery categories.</p>
@@ -40,4 +40,5 @@
 
 <h3>Behavioral Insights</h3>
 <p>Customers with higher transaction frequency (many small payments) tended to show better repayment discipline, whereas customers with fewer but larger purchases were more prone to delinquency.</p>
+
 
